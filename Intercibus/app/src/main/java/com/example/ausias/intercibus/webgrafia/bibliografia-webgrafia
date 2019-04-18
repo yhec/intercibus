@@ -1,0 +1,66 @@
+webs interesantes para consultar:
+
+Base de datos remota con php:
+http://cursoandroidstudio.blogspot.com.es/2015/01/base-de-datos-remotas-login.html
+
+JSONParser con clase HTTPURLConnection (nueva):
+http://danielnugent.blogspot.com.es/2015/06/updated-jsonparser-with.html
+
+Parte Register/Login con PHP:
+https://www.androidhive.info/2012/05/how-to-connect-android-with-php-mysql/
+
+onClick en RecyclerView con onClickListener
+https://demonuts.com/recyclerview-button/
+
+Recoger fotos de la galería
+https://demonuts.com/pick-image-gallery-camera-android/
+
+MYSQL IMPORTANTE!!!!!!
+
+http://php.net/manual/en/function.mysql-connect.php
+http://php.net/manual/en/mysqlinfo.api.choosing.php
+http://php.net/manual/en/function.mysqli-connect.php
+
+
+Colgar vídeos desde PHP a MySQL
+
+http://www.learningaboutelectronics.com/Articles/How-to-insert-videos-into-a-MySQL-database-using-PHP.php
+
+Imágenes fondo pantalla:
+
+http://new.onvacations.co/background-images-for-android-mobile-applications/
+
+Autocompletar palabras - buscar BBDD
+
+http://androidcss.com/android/android-autocomplete-search-suggestions/
+
+Imágenes en PHP - MYSQL
+
+https://www.simplifiedcoding.net/android-upload-image-to-server-using-php-mysql/
+
+https://www.simplifiedcoding.net/android-download-image-from-server-using-php-and-mysql/
+
+https://stackoverflow.com/questions/29302981/retrieve-image-from-mysql-phpandroid
+
+
+Calendario
+
+https://github.com/prolificinteractive/material-calendarview
+
+https://github.com/prolificinteractive/material-calendarview/issues/85
+
+Colorear calendario
+
+https://stackoverflow.com/questions/33512727/material-calendarview-set-background-color-of-dates
+
+Consulta servicios - espacios
+
+https://dba.stackexchange.com/questions/193769/mysql-select-rows-with-same-id-but-different-multiple-values-in-another-colum
+
+Time picker - fragment
+
+https://www.tutorialspoint.com/android/android_timepicker_control.htm
+
+Menú en todas las activities:
+
+https://stackoverflow.com/questions/19451715/same-navigation-drawer-in-different-activities

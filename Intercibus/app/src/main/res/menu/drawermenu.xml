@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/paginaInici"
+        android:icon="@android:drawable/ic_input_get"
+        android:title="@string/inici" />
+    <item
+        android:id="@+id/creaEspai"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/btCrearEspai" />
+    <item
+        android:id="@+id/cercaPerso"
+
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/cercaPers" />
+    <item
+        android:id="@+id/reservaPropia"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="@string/reservesPropies" />
+    <item
+        android:id="@+id/reservaSol"
+        android:icon="?android:attr/actionModePasteDrawable"
+        android:title="@string/reservesSol" />
+    <item
+        android:id="@+id/tancarSessio"
+        android:icon="@drawable/sortida"
+        android:title="@string/tancarSessio"
+        android:visible="true" />
+
+</menu>
